@@ -4,6 +4,9 @@ A focused collection of clean, well-documented code exploring the foundations of
 
 This is not a tutorial repo. It’s a working archive of ideas, simulations, numerical methods, symbolic tools, and computational experiments — built from first principles in **Python** and **C++** and whatever else :).
 
+>>>>> NOTE: README OF THE README. The code here is not meant to replace standard libraries. 99% of the time there is no reason to. The code here is for the 1% of the time you are doing something (really) weird and the 100% of the time 
+that you should be learning how things really work. For example something like GCD you can use math.gcd(12, 18) in python etc. Which gets the job done, but if you are wanting to understand say Dedikind and Cauchy then you need 
+to understand how these things work.
 ---
 
 ## 🎯 Purpose
