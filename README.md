@@ -4,9 +4,28 @@ A focused collection of clean, well-documented code exploring the foundations of
 
 This is not a tutorial repo. It’s a working archive of ideas, simulations, numerical methods, symbolic tools, and computational experiments — built from first principles in **Python** and **C++** and whatever else :).
 
->>>>> NOTE: README OF THE README. The code here is not meant to replace standard libraries. 99% of the time there is no reason to. The code here is for the 1% of the time you are doing something (really) weird and the 100% of the time 
-that you should be learning how things really work. For example something like GCD you can use math.gcd(12, 18) in python etc. Which gets the job done, but if you are wanting to understand say Dedikind and Cauchy then you need 
-to understand how these things work.
+>>>>> ### 📌 README of the README
+
+> ⚠️ **NOTE:** The code in this repository is **not** meant to replace standard libraries.  
+> In fact, **99% of the time, you shouldn't** — just use `math.gcd()`, `numpy`, `sympy`, etc.
+
+This repo exists for:
+
+- ✅ The **1% of cases** where you're doing something truly weird or low-level.
+- ✅ The **100% of the time** where you should **understand how things work under the hood**.
+
+For example, yes, you can write:
+
+```python```
+import math
+math.gcd(12, 18)
+
+And it gets the job done.
+
+But if you're serious about understanding number theory — or diving deep into Dedekind, Cauchy, Gauss, or even elliptic curves — then it's essential to know the actual algorithms behind it.
+
+This project is for learners, builders, tinkerers, and thinkers who believe that knowing what’s under the hood still matters.
+
 ---
 
 ## 🎯 Purpose
