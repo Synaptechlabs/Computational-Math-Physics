@@ -1,0 +1,63 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+*.sqlite3
+*.env
+.env
+.env.*
+*.ipynb_checkpoints/
+*.mypy_cache/
+*.pytest_cache/
+
+# === Jupyter Notebooks (optional, if used) ===
+.ipynb_checkpoints/
+
+# === C / C++ ===
+*.out
+*.o
+*.obj
+*.exe
+*.a
+*.so
+*.dll
+*.dSYM/
+*.gch
+*.pch
+
+# === Build directories ===
+build/
+dist/
+bin/
+lib/
+*.d
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Editor/IDE files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.backup
+
+# === Test outputs ===
+test-output/
+*.log
+*.trace
+*.memcheck
+*.valgrind
+
+# === Custom CLI history or temp files ===
+.history
+*.run
+*.test
+*.cfg
+
