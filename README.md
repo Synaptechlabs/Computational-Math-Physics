@@ -44,6 +44,6 @@ MIT. Use it. Learn from it. Fork it. Break it. Just don’t pretend it came from
 
 ## 👤 Author
 
-Maintained by an old-school engineer who still believes that the laws of physics matter more than the latest framework.
+Maintained by me - who still believes that the laws of physics matter more than the latest framework.
 
 
